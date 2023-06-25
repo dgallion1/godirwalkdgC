@@ -1,4 +1,4 @@
-package godirwalkdgC
+package godirwalk
 
 import (
 	"os"
