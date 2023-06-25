@@ -1,3 +1,3 @@
-module github.com/dgallion1/godirwalkdg3
+module github.com/dgallion1/godirwalkdgA
 
 go 1.20
