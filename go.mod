@@ -1,3 +1,3 @@
-module github.com/dgallion1/godirwalkdgC
+module godirwalkdgC
 
 go 1.20
