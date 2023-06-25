@@ -1,3 +1,3 @@
-module github.com/karrick/godirwalk
+module github.com/dgallion1/godirwalkDg
 
-go 1.13
+go 1.20
